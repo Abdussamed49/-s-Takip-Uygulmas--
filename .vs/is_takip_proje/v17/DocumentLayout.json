@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmpersoneller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmpersonelistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmpersonelistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmgorevlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmgorevlistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmgorevdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmgorevdetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmgorev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmgorev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmdepartmanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmdepartmanlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmcagriatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmcagriatama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmaktifcagrilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmaktifcagrilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\formlar\\frmaktifcagrilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\formlar\\frmaktifcagrilar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|c:\\users\\black\\onedrive\\masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\personelgorevformlari\\frmpersonelformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\personelgorevformlari\\frmpersonelformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\personelgorevformlari\\frmcagrilistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\personelgorevformlari\\frmcagrilistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\personelgorevformlari\\frmaktifgorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\personelgorevformlari\\frmaktifgorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\personelgorevformlari\\frmpasifgorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\personelgorevformlari\\frmpasifgorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\personelgorevformlari\\frmpasifgorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7610A274-87A7-4D87-915F-860E403BAF14}|is_takip_proje\\is_takip_proje.csproj|solutionrelative:is_takip_proje\\personelgorevformlari\\frmpasifgorevler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPersoneller.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmPersoneller.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmPersoneller.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmPersoneller.cs",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmPersoneller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:46:26.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPersoneller.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmPersoneller.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmPersoneller.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmPersoneller.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmPersoneller.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:46:23.106Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPersonelIstatistik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmPersonelIstatistik.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmPersonelIstatistik.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmPersonelIstatistik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmPersonelIstatistik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:46:19.655Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGorevListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmGorevListesi.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmGorevListesi.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmGorevListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmGorevListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:46:12.8Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGorevDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmGorevDetay.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmGorevDetay.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmGorevDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmGorevDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:46:09.614Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmGorev.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmGorev.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmGorev.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmGorev.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmGorev.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:46:07.274Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDepartmanlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmDepartmanlar.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmDepartmanlar.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmDepartmanlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmDepartmanlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:46:04.07Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmCagriAtama.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmCagriAtama.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmCagriAtama.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmCagriAtama.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmCagriAtama.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:46:00.806Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmAnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmAnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmAnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:45:54.092Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAktifCagrilar.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmAktifCagrilar.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmAktifCagrilar.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmAktifCagrilar.cs",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmAktifCagrilar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:45:45.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAktifCagrilar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmAktifCagrilar.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\Formlar\\FrmAktifCagrilar.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\Formlar\\FrmAktifCagrilar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "is_takip_proje\\Formlar\\FrmAktifCagrilar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:45:34.549Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmCagriListesi.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmCagriListesi.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\PersonelGorevFormlari\\FrmCagriListesi.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmCagriListesi.cs",
+              "RelativeToolTip": "is_takip_proje\\PersonelGorevFormlari\\FrmCagriListesi.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:03:09.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmPersonelFormu.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmPersonelFormu.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\PersonelGorevFormlari\\FrmPersonelFormu.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmPersonelFormu.cs",
+              "RelativeToolTip": "is_takip_proje\\PersonelGorevFormlari\\FrmPersonelFormu.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:02:42.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmAktifGorevler.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmAktifGorevler.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\PersonelGorevFormlari\\FrmAktifGorevler.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmAktifGorevler.cs",
+              "RelativeToolTip": "is_takip_proje\\PersonelGorevFormlari\\FrmAktifGorevler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:02:00.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmPasifGorevler.cs",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmPasifGorevler.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\PersonelGorevFormlari\\FrmPasifGorevler.cs",
+              "ToolTip": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmPasifGorevler.cs",
+              "RelativeToolTip": "is_takip_proje\\PersonelGorevFormlari\\FrmPasifGorevler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:01:26.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmPasifGorevler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\black\\OneDrive\\Masa\u00FCst\u00FC\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmPasifGorevler.cs",
+              "RelativeDocumentMoniker": "is_takip_proje\\PersonelGorevFormlari\\FrmPasifGorevler.cs",
+              "ToolTip": "C:\\Projeler\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmPasifGorevler.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Projeler\\is_takip_proje\\is_takip_proje\\PersonelGorevFormlari\\FrmPasifGorevler.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:01:25.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

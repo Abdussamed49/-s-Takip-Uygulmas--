@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projeler\\MvcFirmaCagri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|c:\\projeler\\mvcfirmacagri\\mvcfirmacagri\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|solutionrelative:mvcfirmacagri\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|C:\\Projeler\\MvcFirmaCagri\\mvcfirmacagri\\views\\default\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|solutionrelative:mvcfirmacagri\\views\\default\\anasayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|C:\\Projeler\\MvcFirmaCagri\\mvcfirmacagri\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|solutionrelative:mvcfirmacagri\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|C:\\Projeler\\MvcFirmaCagri\\mvcfirmacagri\\views\\default\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|solutionrelative:mvcfirmacagri\\views\\default\\partial3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|C:\\Projeler\\MvcFirmaCagri\\mvcfirmacagri\\views\\default\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|solutionrelative:mvcfirmacagri\\views\\default\\partial2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|C:\\Projeler\\MvcFirmaCagri\\mvcfirmacagri\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCE01CA8-D9E9-4F89-A20D-6B6473EC1B4D}|MvcFirmaCagri\\MvcFirmaCagri.csproj|solutionrelative:mvcfirmacagri\\views\\default\\partial1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaSayfa.cshtml",
+              "DocumentMoniker": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Default\\AnaSayfa.cshtml",
+              "RelativeDocumentMoniker": "MvcFirmaCagri\\Views\\Default\\AnaSayfa.cshtml",
+              "ToolTip": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Default\\AnaSayfa.cshtml",
+              "RelativeToolTip": "MvcFirmaCagri\\Views\\Default\\AnaSayfa.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAWwGkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:24:44.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partial3.cshtml",
+              "DocumentMoniker": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Default\\Partial3.cshtml",
+              "RelativeDocumentMoniker": "MvcFirmaCagri\\Views\\Default\\Partial3.cshtml",
+              "ToolTip": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Default\\Partial3.cshtml",
+              "RelativeToolTip": "MvcFirmaCagri\\Views\\Default\\Partial3.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:24:04.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial2.cshtml",
+              "DocumentMoniker": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Default\\Partial2.cshtml",
+              "RelativeDocumentMoniker": "MvcFirmaCagri\\Views\\Default\\Partial2.cshtml",
+              "ToolTip": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Default\\Partial2.cshtml",
+              "RelativeToolTip": "MvcFirmaCagri\\Views\\Default\\Partial2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:18:13.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcFirmaCagri\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MvcFirmaCagri\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:16:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MvcFirmaCagri\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MvcFirmaCagri\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwGkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T13:21:53.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Partial1.cshtml",
+              "DocumentMoniker": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Default\\Partial1.cshtml",
+              "RelativeDocumentMoniker": "MvcFirmaCagri\\Views\\Default\\Partial1.cshtml",
+              "ToolTip": "C:\\Projeler\\MvcFirmaCagri\\MvcFirmaCagri\\Views\\Default\\Partial1.cshtml",
+              "RelativeToolTip": "MvcFirmaCagri\\Views\\Default\\Partial1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T17:18:13.054Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 71,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

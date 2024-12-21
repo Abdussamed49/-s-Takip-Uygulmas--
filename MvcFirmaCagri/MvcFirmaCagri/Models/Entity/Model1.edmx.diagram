@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9cd4c0f93bd34802815d9661ebb015e1" Name="Diagram1">
+        <EntityTypeShape EntityType="DBIsTakipModel.TblAdmin" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBIsTakipModel.TblCagrilar" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBIsTakipModel.TblDepartmanlar_" Width="1.5" PointX="0.75" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBIsTakipModel.TblFirmalar" Width="1.5" PointX="0.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBIsTakipModel.TblGorevDetaylar" Width="1.5" PointX="7.5" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBIsTakipModel.TblGorevler" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DBIsTakipModel.TblPersonel" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <AssociationConnector Association="DBIsTakipModel.FK_TblCagrilar_TblFirmalar" ManuallyRouted="false" />
+        <AssociationConnector Association="DBIsTakipModel.FK_TblPersonel_TblDepartmanlar_" ManuallyRouted="false" />
+        <AssociationConnector Association="DBIsTakipModel.FK_TblGorevDetaylar_TblGorevler1" ManuallyRouted="false" />
+        <AssociationConnector Association="DBIsTakipModel.FK_TblGorevler_TblPersonel2" ManuallyRouted="false" />
+        <AssociationConnector Association="DBIsTakipModel.FK_TblGorevler_TblPersonel3" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DBIsTakipModel.TblCagriDetay" Width="1.5" PointX="5.25" PointY="7.5" />
+        <AssociationConnector Association="DBIsTakipModel.FK_TblCagriDetay_TblCagrilar" />
+        <EntityTypeShape EntityType="DBIsTakipModel.TblMesajlar" Width="1.5" PointX="7.375" PointY="7.75" />
+        <AssociationConnector Association="DBIsTakipModel.FK_TblMesajlar_TblFirmalar" />
+        <AssociationConnector Association="DBIsTakipModel.FK_TblMesajlar_TblFirmalar1" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
